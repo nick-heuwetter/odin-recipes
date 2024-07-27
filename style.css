@@ -1,0 +1,22 @@
+* {
+   font-family: Helvetica, Arial, sans-serif; 
+   color: white;
+   background-color: rgb(2, 2, 43); 
+}
+
+.home.title {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bold;
+}
