@@ -6,6 +6,7 @@
 
 .home.title {
     text-align: center;
+    font-size: 50px;
 }
 
 div {
@@ -20,3 +21,22 @@ h1 {
 h2 {
     font-weight: bold;
 }
+
+a {
+    display: block;
+    margin: 20px;
+}
+
+.page {
+    margin: 0 auto;
+}
+
+ul {
+    list-style: inside;
+}
+
+li {
+    text-align: left;
+    padding: 6px;
+}
+
